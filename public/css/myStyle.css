@@ -1,0 +1,133 @@
+/*GERAL*/
+	.obg{
+		font-size: 10px;
+		color: red;
+	}
+	
+	.mb-120{
+		margin-bottom: 120px;
+	}
+
+	.inline-flex{
+		display: inline-flex;
+	}
+
+	.inline-block{
+		display: inline-block;
+	}
+
+	.mt-40{
+		margin-top: 40px;
+	}
+
+	.mt-30{
+		margin-top: 30px;
+	}
+
+	.mt-20{
+		margin-top: 20px;
+	}
+
+	.mr-5{
+		margin-right: 5px
+	}
+
+	.mb-60{
+		margin-bottom: 60px;
+	}
+
+	.mb-0{
+		margin-bottom: 0;
+	}
+
+	.mr-50{
+		margin-right: 50px;
+	}
+
+
+/*MAIN*/
+	#titulo{
+		position: absolute;
+		top: 5px; 
+		bottom: 0;
+		left: 0;
+		right: 0;
+		margin: auto; 
+		height:50px;
+	}
+
+	.msg{
+		background-color: #d4edda;
+		color: #155724;
+		border: 1px solid #c3e6c8;
+		width: 100%;
+		margin-bottom: 15px;
+		text-align: center;
+		padding: 10px;
+	}
+
+	.mainBtn{
+		background-color: #141619; 
+		border: none; 
+		color: #F2A340; 
+		font-size: 18px;
+	}
+
+	.navMain{
+		background-color: #141619;
+	}
+
+	.cf-main{
+		padding: 20px 70px 20px 70px;
+	}
+
+
+/*FIM MAIN*/
+
+/*INDEX*/
+	#btn-1{
+		margin-top: 10px;
+	}
+/*FIM INDEX*/
+
+/*VENCEDORES*/
+	#cards-container{
+		display: flex;
+	}
+
+	#vencedores-container .card{
+		flex: 1 1 39%;
+		max-width: 40%;
+		border-radius: 10px;
+		padding: 0;
+		margin: 3%;
+	}
+
+	#vencedores-container img{
+		max-height: 150px;
+		border-radius: 10px;
+		/*border-top-right-radius: 10px;*/
+		margin-bottom: 20px;
+	}
+
+	.h5-1-venc{
+		margin-left: 3%;
+	}
+
+	.hr-1-venc{
+		width: 20%;
+	}
+
+/*FIM VENCEDORES*/
+
+/*DETALHES*/
+.nac{
+	padding: 5px 32px 5px 32px !important;
+}
+
+.btn-sub{
+	margin: 8px 32px 8px 32px !important;
+}
+
+
+/*FIM DETALHES*/
